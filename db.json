@@ -1,0 +1,16 @@
+{
+  "pictures": [
+    {
+      "artist": "Neil Burnell",
+      "year": "2012",
+      "photo": "https://picsum.photos/400/443",
+      "id": "7"
+    },
+    {
+      "id": "31f8",
+      "artist": "tet",
+      "year": "te",
+      "photo": "https://picsum.photos/400/485"
+    }
+  ]
+}
